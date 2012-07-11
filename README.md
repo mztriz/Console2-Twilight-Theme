@@ -9,7 +9,7 @@ Installing the theme
 ----
 The easiest way to install this theme is to edit your `console.xml` file found in your Console2 directory.
 
-Open `console.xml` in your favorite text editor and erase all of the text between the `<color></color>` found tags near the top of the file.
+Open `console.xml` in your favorite text editor and erase all of the text between the `<color></color>` tags found near the top of the file.
 
 After its been erased paste the following between the `<color></color>` tags:
 `````xml
