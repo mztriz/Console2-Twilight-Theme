@@ -34,7 +34,7 @@ After its been erased paste the following between the `<color></color>` tags:
 
 My console.xml file is here for reference:
 [console.xml] (https://github.com/mztriz/Console2-Twilight-Theme/blob/master/console.xml)
-You probably don't want to just replce yours with mine as it will overwrite all of your other custom settings. 
+You probably don't want to just replace yours with mine as it will overwrite all of your other custom settings. 
 
 Settings
 ---
