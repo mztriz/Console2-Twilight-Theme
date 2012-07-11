@@ -46,7 +46,6 @@ Custom LSCOLORS for cgywin `.bashrc`:
 CLICOLOR=1 # Enables color in the terminal bash shell export
 LSCOLORS=gxfxcxdxbxegedabagacad # Sets up the color scheme for list export
 export LSCOLORS
-export TERM=xterm-color # Enables color for iTerm
 alias ls='ls --color'`
 `````
 ### Font
