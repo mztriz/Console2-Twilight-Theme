@@ -12,7 +12,7 @@ The easiest way to install this theme is to edit your `console.xml` file found i
 Open `console.xml` in your favorite text editor and erase all of the text between the `<color></color>` found tags near the top of the file.
 
 After its been erased paste the following between the `<color></color>` tags:
-`<color id="0" r="20" g="20" b="20"/>
+<color id="0" r="20" g="20" b="20"/>
 <color id="1" r="207" g="106" b="76"/>
 <color id="2" r="131" g="144" b="97"/>
 <color id="3" r="206" g="168" b="105"/>
