@@ -12,6 +12,7 @@ The easiest way to install this theme is to edit your `console.xml` file found i
 Open `console.xml` in your favorite text editor and erase all of the text between the `<color></color>` found tags near the top of the file.
 
 After its been erased paste the following between the `<color></color>` tags:
+`````xml
 <color id="0" r="20" g="20" b="20"/>
 <color id="1" r="207" g="106" b="76"/>
 <color id="2" r="131" g="144" b="97"/>
@@ -27,7 +28,9 @@ After its been erased paste the following between the `<color></color>` tags:
 <color id="12" r="216" g="10" b="82"/>
 <color id="13" r="230" g="0" b="139"/>
 <color id="14" r="225" g="238" b="62"/>
-<color id="15" r="230" g="230" b="230"/>`
+<color id="15" r="230" g="230" b="230"/>
+`````
+
 
 My console.xml file is here for reference:
 [console.xml] (https://raw.github.com/mztriz/Console2-Twilight-Theme/master/console.xml)
