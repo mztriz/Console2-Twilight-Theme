@@ -42,12 +42,13 @@ Settings
 <img src="https://raw.github.com/mztriz/Console2-Twilight-Theme/master/colors.png">
 
 Custom LSCOLORS for cgywin `.bashrc`: 
-`CLICOLOR=1 # Enables color in the terminal bash shell export
+`````bash
+CLICOLOR=1 # Enables color in the terminal bash shell export
 LSCOLORS=gxfxcxdxbxegedabagacad # Sets up the color scheme for list export
 export LSCOLORS
 export TERM=xterm-color # Enables color for iTerm
 alias ls='ls --color'`
-
+`````
 ### Font
 Inconsolata by Raph Levien.
 http://code.google.com/p/googlefontdirectory/source/browse/inconsolata/
