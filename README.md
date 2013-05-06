@@ -3,7 +3,7 @@ Console2-Twilight-Theme
 
 A Twilight theme for [Console2] (http://sourceforge.net/projects/console/)
 
-<img src="https://raw.github.com/mztriz/Console2-Twilight-Theme/master/preview.png">
+<img src="https://raw.github.com/mztriz/Console2-Twilight-Theme/master/preview.png?raw=true">
 
 Installing the theme
 ----
@@ -39,7 +39,7 @@ You probably don't want to just replace yours with mine as it will overwrite all
 Settings
 ---
 ### Colors
-<img src="https://raw.github.com/mztriz/Console2-Twilight-Theme/master/colors.png">
+<img src="https://raw.github.com/mztriz/Console2-Twilight-Theme/master/colors.png?raw=true">
 
 Custom LSCOLORS for cgywin `.bashrc`: 
 `````bash
